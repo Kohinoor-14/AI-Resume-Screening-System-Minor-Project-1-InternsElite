@@ -118,6 +118,14 @@ http://localhost:8501
 
 ## Author
 
-Kohinoor Soni
+**Kohinoor Soni**
 
-InternsElite Minor Project 1
+B.Tech Computer Science Engineering
+
+KIIT University
+
+---
+
+## License
+
+This project is developed for educational and academic purposes.
